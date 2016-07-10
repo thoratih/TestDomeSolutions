@@ -10,6 +10,7 @@ namespace SamplePrograms
     {
         public static Tuple<int, int> TwoSum(IList<int> list, int sum)
         {
+            //code logic goes here. Yet to start. Testing github
             return new Tuple<int, int>(list[0], sum);
         }
 
